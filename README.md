@@ -1,6 +1,6 @@
 # Source Codes of Real-time Derivative Pricing and Hedging with Consistent Metamodels
 This repository contains the source codes used in the following paper:  
-- Guangxin Jiang, L. Jeff Hong, and Shen, Haihui (2023). Real-time Derivative Pricing and Hedging with Consistent Metamodels. Submitted to _INFORMS Journal on Computing_.
+- Guangxin Jiang, L. Jeff Hong, and Shen, Haihui (2023). [Real-time Derivative Pricing and Hedging with Consistent Metamodels](https://doi.org/10.1287/ijoc.2023.0292). Submitted to _INFORMS Journal on Computing_.
 ## Disclaimer
 **LICENSE**: Redistribution and use in source and binary forms, with or without modification, are permitted, under the terms of the BSD license.  
 **WARNING**: These codes are written only for the purpose of demonstration and verification. While the correctness has been carefully checked, the quality such as standardability, clarity, generality, and efficiency has not been we considered.  
